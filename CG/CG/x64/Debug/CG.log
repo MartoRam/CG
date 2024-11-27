@@ -1,0 +1,9 @@
+﻿  CG_Main.cpp
+C:\Users\mmmla\OneDrive\Desktop\Uni_Work\CG\CG\CG_Main.cpp(149,17): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\mmmla\OneDrive\Desktop\Uni_Work\CG\CG\CG_Main.cpp(150,17): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\mmmla\OneDrive\Desktop\Uni_Work\CG\CG\CG_Main.cpp(154,19): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\mmmla\OneDrive\Desktop\Uni_Work\CG\CG\CG_Main.cpp(155,19): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\mmmla\OneDrive\Desktop\Uni_Work\CG\CG\CG_Main.cpp(156,13): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\mmmla\OneDrive\Desktop\Uni_Work\CG\CG\CG_Main.cpp(157,13): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+LINK : warning LNK4098: defaultlib 'MSVCRT' conflicts with use of other libs; use /NODEFAULTLIB:library
+  CG.vcxproj -> C:\Users\mmmla\OneDrive\Desktop\Uni_Work\CG\x64\Debug\CG.exe
